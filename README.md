@@ -1,0 +1,2 @@
+# YenGec
+Yapay Zeka asistani
